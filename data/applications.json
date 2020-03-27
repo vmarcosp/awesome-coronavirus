@@ -253,6 +253,11 @@
           "title": "Help with COVID",
           "url": "https://helpwithcovid.com",
           "description": "COVID-19 projects looking for volunteers"
+        },
+        {
+          "title": "COVIDBR",
+          "url": "https://covidbr.netlify.com,
+          "description": "COVID-19 Tracker for Brazil"
         }
       ]
     },
